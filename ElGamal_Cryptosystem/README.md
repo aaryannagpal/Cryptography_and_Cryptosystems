@@ -1,8 +1,4 @@
 # ElGamal_Public_Key_Cryptosystem
-RSA (Rivest–Shamir–Adleman) is an asymmetric public-key cryptosystem that is widely used for secure data transmission.
-
-In a public-key cryptosystem, the encryption key is **public** and distinct from the decryption key, which is kept **private**. 
-
 
 ## Idea of ElGamal
 
