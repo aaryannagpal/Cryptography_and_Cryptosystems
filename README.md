@@ -3,7 +3,7 @@
 This repository is collection of my notes and codes while learning about cryptography. All the directories in this repository used to be a seperate repository on my profile, which I have now merged into this one. The notes are written in markdown and the codes are written in python, mostly on Jupyter Notebook.
 
 ## Crpytosystems covered here
-* Elliptic Curve Cryptography
+* Elliptic-curve Diffie–Hellman Key Exchange
 * RSA Cryptosystem
 * ElGamal Cryptosystem
 * One Time Pad
